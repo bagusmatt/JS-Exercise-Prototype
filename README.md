@@ -19,7 +19,7 @@ Two options are included below.
 
 <details>
   <summary>1. Using Code Sandbox</summary>
-
+        
 - Launch the sandbox using the link below.
 - Sign into Code Sandbox.
 - Fork the sandbox.
